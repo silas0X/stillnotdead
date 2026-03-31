@@ -5,3 +5,4 @@
 .env*
 !.env.example
 public/
+node_modules/
