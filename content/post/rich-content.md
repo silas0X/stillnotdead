@@ -23,7 +23,8 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ## Twitter Simple Shortcode
 
-{{< x "https://twitter.com/SanDiegoZoo/status/1453110110599868418" >}}
+{{< x user="username" id="1234567890" >}}
+
 
 <br>
 
