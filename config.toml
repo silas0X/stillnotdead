@@ -2,3 +2,5 @@ theme = "risotto"
 baseURL = "https://stillnotdead.org"
 languageCode = "en-us"
 title = "My Blog"
+[markup.goldmark.renderer]
+  unsafe = true
