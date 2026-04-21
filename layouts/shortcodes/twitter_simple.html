@@ -1,0 +1,2 @@
+{{- /* forward x_simple -> x x_simple */ -}}
+{{- printf "{{< x x_simple %s >}}" (.Inner | default .Get 0) | safeHTML -}}
